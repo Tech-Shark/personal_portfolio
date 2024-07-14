@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /* ========== typed js ========== */
 const typed = new Typed('.multiple-text', {
-    strings: ['Full Stack .NET Developer💻', 'C# | ASP.NET Core | Entity Framework Core | Blazor | JavaScript'],
+    strings: ['Full Stack .NET Developer 💻', 'C# | ASP.NET Core | Entity Framework Core | Blazor | JavaScript'],
     typeSpeed: 40,
     backSpeed: 30,
     backDelay: 1500,
